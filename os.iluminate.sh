@@ -44,5 +44,5 @@ read -p "MOVIMENTO NACIONAL : NAZA :" bro
 if [ $bro = NAZA ] || [ $bro = NAZA ]
 then
 figlet "NetSexy" | lolcat
-php cc-br.php
+php darknet.php
 fi
