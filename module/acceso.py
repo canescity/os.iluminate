@@ -12,8 +12,8 @@ celeste = '\033[36;1m'
 plomo = '\033[30;1m'
 close = '\033[0m'
 
-username = 'ILLUMINATE'
-password = '6699'
+username = 'ILUMINATE'
+password = '666'
 
 print(verde)
 nick = str(input('WALLY DA MAFIA CITY ★PH★ : '))
