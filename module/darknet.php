@@ -45,7 +45,7 @@ echo "\033[32m[★] QUE É A NOVA ORDEM MUNDIAL DA ONG N.S.A\n";
 sleep(1);
 //GERAR QUANDOS NUMEROS
 
-echo $celeste . "\n\nQUANTAS CARTELAS DA SOTE :  ";
+echo $celeste . "\n\nQUANTAS CARTELAS DA SORTE :  ";
 $count = trim(fgets(STDIN,1024));
 
 //GERAR NUMEROS DA MEGA SENA
